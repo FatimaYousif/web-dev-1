@@ -1,0 +1,207 @@
+*
+{
+    margin:0 auto;
+}
+
+.one
+{
+    color:blue;
+    background-color: white;
+   
+}
+.programs
+{
+background-color: #e7ecf0;
+width:300px;
+height:250px;
+display:inline-block;
+text-align: left;
+padding: 0em 3em 0em 3em;
+    margin:1em 1em 1em 1em;
+}
+
+.programs>h1
+{
+color:blue;
+}
+.programs>p
+{
+color:black;
+}
+header
+{
+    background-color: #4385c1;
+    color:white;
+}
+
+nav
+{
+    background-color: #043867;
+}
+nav>a
+{
+    color:#4385c1 ;
+
+}
+.headers
+{
+    background-color: #4385c1;
+    color:white;
+    border-color:none;
+    border-radius: 10px;
+    padding:0.5em 1em 0.5em 1em;
+    margin-left: 0.5em ;
+}
+.move
+{
+    background-color:#7aa120;
+    color: white;
+}
+.purp
+{
+background-color: #620e6e;
+color: white;
+width:300px;
+height:250px;
+text-align: center;
+margin:1em 1em 1em 1em;
+padding: 0em 3em 0em 3em;
+
+display: inline-block;
+}
+.bl
+{
+color:white;
+background-color:#4385c1 ;
+width:300px;
+height:250px;
+text-align: center;
+display: inline-block;
+margin: 1em 1em 1em 1em;
+padding: 0em 3em 0em 3em;
+
+}
+
+footer{
+    color:#81858a;
+    background-color: #34383c;
+}
+.headings
+{
+  color:white;  
+}
+.bruh
+{
+    color:#8ab6df;
+}
+
+
+
+.navs
+{
+    color:white;
+    padding-left: 5em;
+    padding-right: 5em;   
+}
+.dis{
+    display: inline;
+}
+.head{
+    vertical-align: 25px;
+}
+.head1, .head2, .head3
+{
+    display: inline-block;
+}
+.head1{
+    padding:1em 20em 1em 1em;
+    vertical-align: 20px;
+
+}
+.head2{
+    padding:1em 23em 1em 0em;
+}
+.head3{
+    padding:1em 2em 1em 0em;
+    vertical-align: 20px;
+}
+.navs
+{
+    vertical-align: 25px;
+}
+.one
+{
+    padding: 0.7em 1.5em 0.7em 1.5em;
+    margin:2em 3em 2em 3em;
+}
+
+.months
+{
+    color: green;
+    background-color: white;
+    border: 2px solid green ;
+    width: 90px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    margin: 1em 2em 1em 2em;
+}
+.oneo
+{
+    display: inline-block;
+    vertical-align: 10px;
+}
+.two
+{
+    display: inline-block;
+    vertical-align: 10px;
+
+}
+
+.months1
+{
+    color: green;
+    background-color: white;
+    border: 2px solid green ;
+    width: 90px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    margin: 1em 2em 1em 2em;
+}
+.fone
+{
+    display: inline-block;
+    margin:1em 0em 1em 0em;
+    padding:1em 1em 1em 1em;
+}
+.ftwo
+{
+    display: inline-block;
+}
+ /* #out
+{
+    width:"80%";
+    margin: 0em 0em 3em 0em;
+ }
+ */
+ #out img{
+    width: 100%;
+} 
+#out
+{
+    margin-bottom: 20em;
+}
+
+#text
+{
+    width:100%;
+    position: relative;
+    margin-top: -25%;
+}
+#text h1, #text h2, #text hr
+{
+    text-align: center;
+    color:;
+    font-size: 2.5em;
+} 
